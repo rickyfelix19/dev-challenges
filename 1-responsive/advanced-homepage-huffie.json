@@ -1,0 +1,61 @@
+{
+  "title": "Advanced Homepage - Huffie",
+  "description": "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills",
+  "userStories": [
+    {
+      "content": "Create an advanced homepage - Huffie that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add logo, title, descriptions, buttons, images, etc., according to the design."
+    },
+    {
+      "content": "Use CSS or CSS framework to style the page."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the page and submit the Demo URL."
+    }
+  ],
+  "text": [
+    { "content": "Version 4.0.1" },
+    {
+      "content": "Where data and creativity come together."
+    },
+    {
+      "content": "The fastest way to build and deploy websites with reusable components."
+    },
+    { "content": "This is a new creative process" },
+    { "content": "Quisque eleifend velit vel erat fringilla interdum" },
+    { "content": "200+ cloneable components" },
+    { "content": "Complete style guide for projects" },
+    { "content": "Modern & beautiful landing page" },
+    { "content": "Built-in multiple ways" },
+    {
+      "content": "Suspendisse id tortor venenatis, blandit lacus ut, efficitur diam. Proin vulputate nisl vel sem consequat euismod. "
+    },
+    {
+      "content": "From navigation bars to modals, buttons to forms, our library has everything you need to jumpstart your development process."
+    },
+    { "content": "Rapidly build your own design system" },
+    { "content": "Maintain consistency across your website" },
+    { "content": "Save hours in production time" },
+    {
+      "content": "A comprehensive style guide can make all the difference in creating a cohesive and effective design."
+    },
+    { "content": "Determine the key elements of your brand" },
+    { "content": "Include guidelines for layout" },
+    { "content": "Share your style guide with your team" },
+    {
+      "content": "Our approach to content creation allows you to build your content in multiple ways, maximizing your efficiency and output."
+    },
+    { "content": "Identify the core message of your content" },
+    { "content": "Create a content calendar" },
+    { "content": "Repurpose your content by adapting" },
+    { "content": "Always with the legendary customer experience." }
+  ]
+}
