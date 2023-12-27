@@ -8,8 +8,12 @@ Link: https://devchallenges.io/editor/solution/4329
 
 ### User stories
 
-[] Create a card component that matches the given design.
+[✅] Create a card component that matches the given design.
 
-[] Use HTML to create the basic structure.
+[✅] Use HTML to create the basic structure.
 
-[] Use CSS to style the card.
+[✅] Use CSS to style the card.
+
+---
+
+![Final Solution](./Solution.png)
